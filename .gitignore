@@ -29,3 +29,6 @@
 
 # Explicit ignores
 Thumbs.db
+
+# include sponge-builds
+!sponge-builds

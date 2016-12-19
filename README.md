@@ -18,6 +18,7 @@ The point of this repo is to maintain a fork of AE2 for servers running SpongeFo
 
 appliedenergistics2-rv4-alpha-7 [[94ce78d](https://github.com/Prototik/Applied-Energistics-2/commit/94ce78d123171d357ab7ff90db35d12003dc36aa)] [Download](https://raw.githubusercontent.com/Stonebound/Applied-Energistics-2/spongeforge/sponge-builds/appliedenergistics2-rv4-alpha-7.jar)  
 appliedenergistics2-rv4-alpha-8 [[c8d5936](https://github.com/Stonebound/Applied-Energistics-2/commit/c8d5936c8c0a4286970b802bf49d2bf37dcfa402)] [Download](https://raw.githubusercontent.com/Stonebound/Applied-Energistics-2/spongeforge/sponge-builds/appliedenergistics2-rv4-alpha-8.jar)
+appliedenergistics2-rv4-alpha-9 [[fb42cb3](https://github.com/Stonebound/Applied-Energistics-2/commit/fb42cb33f6ed4b196f4a14a219d3f0cc2f250e11)] [Download](https://raw.githubusercontent.com/Stonebound/Applied-Energistics-2/spongeforge/sponge-builds/appliedenergistics2-rv4-alpha-9.jar)
 
 ## Building
 
